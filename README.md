@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting and Cleaning Data -  Course Project
 ### Description and explanation of the run_analysis.R script
 ### By: Joonas Korkealaakso
@@ -31,8 +30,5 @@ The functions and commands performed by the script are explained in chronologica
 14. Finally this tidy data set is output and saved as a text file into the working directory with _write.table()_ using _row.name=FALSE_.
 
 ## References
+
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012.
-=======
-# Getting-and-Cleaning-Data-Course-Project
-Repo for Coursera Getting and Cleaning Data - Course Project
->>>>>>> 94c7cb8149de4f00afea8b73fb6bda2e41ed2079
